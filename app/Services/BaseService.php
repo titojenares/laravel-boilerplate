@@ -7,7 +7,7 @@ namespace App\Services;
  *
  * Modified from: https://github.com/kylenoland/laravel-base-repository
  */
-abstract class BaseService
+final class BaseService
 {
     /**
      * The repository model.
